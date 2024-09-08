@@ -1,0 +1,1 @@
+# kuromis-stupid-bot
